@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Zorin-ABCDE-Red
+Comment=The light desktop theme with red highlights for Zorin OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Zorin-ABCDE-Red
+MetacityTheme=Zorin-ABCDE-Red
+IconTheme=Zorin-ABCDE-Red
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
