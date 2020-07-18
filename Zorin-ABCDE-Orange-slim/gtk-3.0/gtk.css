@@ -1928,6 +1928,8 @@ terminal-window scrollbar{
 /*---------------------------------------*/
 hdyleaflet headerbar{border-bottom-width:1px;border-color:#f0f0f0;}
 toolbar.horizontal{border-radius:8px;}
+.primary-toolbar{border-color:#f0f0f0;border-width:0 0 1px 0;border-style:solid;
+}
 /* GTK NAMED COLORS ---------------- use responsibly! */
 /*
 widget text/foreground color */
